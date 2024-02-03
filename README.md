@@ -6,7 +6,7 @@
 
 ⚠️[view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
-⚠️ [Demo Project](https://index1-pr-8.html)
+⚠️ <a href ="https://somayehkhavariweb.github.io/pr-1-header/">demo</a>
 
 ● Developed by **Somayeh Khavari** ✈️
 
