@@ -8,14 +8,14 @@
 
 ⚠️ **[Demo project](https://somayehkhavariweb.github.io/pr1/)**
 
-* Developed by: **Somayeh Khavari** ✈️
+**Developed by:** **Somayeh Khavari** ✈️
 
-* Created -  feb-2024
+**Created :** feb-2024
 
-* Technologies Used - Html , css 
+**Technologies Used :** Html , css 
 
-* Hooks Used : useState 
+**Hooks Used :** useState 
 
 * Role - Frontend
 
-* How to reach me : with my [instagram](https://www.instagram.com/somayeh.khavari_web?igsh=YzAwZjE1ZTI0Zg==) and [linkedin](https://www.linkedin.com/in/somayeh-khavari-1a648b2a8)
+**How to reach me** : with my [instagram](https://www.instagram.com/somayeh.khavari_web?igsh=YzAwZjE1ZTI0Zg==) and [linkedin](https://www.linkedin.com/in/somayeh-khavari-1a648b2a8)
