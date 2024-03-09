@@ -6,9 +6,9 @@
 
 ⚠️[view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
-⚠️ **[Demo project]**(https://somayehkhavariweb.github.io/pr1/)
+⚠️ **[Demo project](https://somayehkhavariweb.github.io/pr1/)**
 
-**Developed by: **Somayeh Khavari** ✈️
+* Developed by: **Somayeh Khavari** ✈️
 
 * Created -  feb-2024
 
